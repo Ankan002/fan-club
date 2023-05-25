@@ -27,6 +27,9 @@ module.exports = {
 				"fira-code": "'Fira Code', monospace",
 				quicksand: "'Quicksand', sans-serif",
 			},
+			backgroundImage: {
+				"gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
+			},
 		},
 	},
 	plugins: [],
